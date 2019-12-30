@@ -28,7 +28,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-![alt text](https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png)
 
 
   <h3 align="center">Cms-Php</h3>
