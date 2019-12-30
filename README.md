@@ -42,27 +42,10 @@ cms is a very simple and lightweight blogging system that lets you write content
 
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="/othneildrew/Best-README-Template/raw/master/images/screenshot.png" alt="Product Name Screen Shot" style="max-width:100%;">
+![alt text](http://othneildrew/Best-README-Template/raw/master/images/screenshot.png)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
