@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png">
+  <a href="https://www.webenrich.com/assets/php-icon-innerpage-big-e886832164d68e860e78c751b6a127a69d0c3e0696b436963119c76ccd6f347b.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -45,7 +45,7 @@ cms is a very simple and lightweight blogging system that lets you write content
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png)
+![alt text](https://buttercms.com/static/v2/images/temp/image3@2x.4a651ddb1da7.png)
 
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
