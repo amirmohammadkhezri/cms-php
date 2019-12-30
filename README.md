@@ -29,16 +29,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
 ![alt text](https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png)
+</p>
 
   <h3 align="center">Cms-Php</h3>
-
   <p align="center">
 cms is a very simple and lightweight blogging system that lets you write content as well as delete, update and approve user comments. With admin panel
     <br />
   </p>
-  </p>
+
 
 
 
