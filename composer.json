@@ -2,6 +2,7 @@
     "name": "khezri/php-blog",
     "description": "cms is a very simple and lightweight blogging system that lets you write content as well as delete, update and approve user comments. With admin panel",
     "type": "project",
+    "license" : "MIT",
     "authors": [{
         "name": "amirmohammadkhezri",
         "email": "49806187+amirmohammadkhezri@users.noreply.github.com"
