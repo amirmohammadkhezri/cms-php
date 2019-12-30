@@ -2,7 +2,7 @@
     "name": "khezri/php-blog",
     "description": "cms is a very simple and lightweight blogging system that lets you write content as well as delete, update and approve user comments. With admin panel",
     "type": "project",
-    "keywords": ["CMS", "anchor", "anchorcms"],
+    "keywords": ["CMS", "php", "khezri"],
     "license": "GPL-3.0",
     "authors": [{
         "name": "amirmohammadkhezri",
