@@ -30,13 +30,16 @@
 <br />
 <p align="center">
 
-![alt text](https://https://icon2.cleanpng.com/20180713/ukl/kisspng-php-web-development-perl-logo-php-logo-5b49134dc5f293.3290308615315157258108.jpg)
-</p>
+<a href="https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>)
+
   <h3 align="center">Cms-Php</h3>
 
   <p align="center">
 cms is a very simple and lightweight blogging system that lets you write content as well as delete, update and approve user comments. With admin panel
     <br />
+  </p>
   </p>
 
 
