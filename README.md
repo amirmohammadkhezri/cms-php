@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -61,6 +61,8 @@ cms is a very simple and lightweight blogging system that lets you write content
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<img src="/othneildrew/Best-README-Template/raw/master/images/screenshot.png" alt="Product Name Screen Shot" style="max-width:100%;">
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
