@@ -30,9 +30,7 @@
 <br />
 <p align="center">
 
-<a href="https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>)
+![alt text](https://geeksterminal.com/wp-content/uploads/2011/10/php-logo-150x150.png)
 
   <h3 align="center">Cms-Php</h3>
 
